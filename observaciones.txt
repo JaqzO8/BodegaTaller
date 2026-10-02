@@ -1,2 +1,5 @@
+
 Proyecto dsdainicial de organización de productos de Bodega Mika.
 TEXTO ERROR
+
+Proyecto inicial de organización de productos de Bodega Mika.
