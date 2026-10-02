@@ -1,10 +1,6 @@
 # Bodega Mika
 Repositorio utilizado para practicar trabajo colaborativo con Git y GitHub.
-## Integrantes
-- Queshyac Zavaleta José Alejandro
-- Mauricio Solorzano Amelia
-- Valles Sevillano Alan Samuel 
+## contenido 
+- Aquí se encuentra alojado los clientes con datos de código, nombre y teléfono 
 ## Archivos
-- productos.csv
-- proveedores.csv
-- observaciones.txt
+- clientes.csv
