@@ -1,2 +1,3 @@
 Proyecto inicial de organización de productos de Bodega Mika.
 Responsable de productos: Integrante A Jose08
+Responsable de proveedores: Integrante B Mausol75
